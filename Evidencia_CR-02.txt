@@ -1,0 +1,2 @@
+" Evidencia de la solicitud de cambio CR-02
+  Se implementa la funcionalidad de cancelación de reservas. Se agrega el requisito funcional RF-06 (Cancelar una reserva). Se actualiza el modelo de clases incorporando el estado <<Cancelada>> y el método cancelarReserva()."
